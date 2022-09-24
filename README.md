@@ -14,10 +14,13 @@
 <p align="left">
   <li>JavaScript
   <li>React
+  <li>React Hooks
+  <li>React Router Dom
   <li>Three.js
   <li>HTML
   <li>CSS
   <li>Git
+  <li>Figma
 </p>
 
 <h3 align="left">⭐️ Favorite Repositories:</h3>
