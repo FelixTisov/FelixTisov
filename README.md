@@ -20,7 +20,7 @@
   <li>Git
 </p>
 
-<h3 align="left">⭐️Favorite Repositories⭐️</h3>
+<h3 align="left">⭐️ Favorite Repositories:</h3>
 <a href="https://github.com/FelixTisov/audio-player">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FelixTisov&repo=audio-player&title_color=ffffff&text_color=c9cacc&icon_color=FFA34E&bg_color=2F4260" />
 </a>
