@@ -1,6 +1,14 @@
 
 <h1 align="center">Hi there 👋, I'm Fedor</h1>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/felixxtd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixxtd" height="30" width="40" /></a>
+
+<a href="https://t.me/felixxtd" target="blank"><img align="center" src="./img/telegram.svg" alt="felixxtd" height="30" width="40" /></a>
+</p>
+
 <!--
 **FelixTisov/FelixTisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
