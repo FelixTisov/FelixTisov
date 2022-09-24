@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/felixxtd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixxtd" height="30" width="40" /></a>
 
-<a href="https://t.me/felixxtd" target="blank"><img align="center" src="./img/telegram.svg" alt="felixxtd" height="30" width="40" /></a>
+<a href="https://t.me/felixxtd" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/70074892/192116101-7bb4f607-e7e2-4a9e-b6a4-909bdc676ab1.png)" alt="felixxtd" height="30" width="40" /></a>
 </p>
 
 <!--
