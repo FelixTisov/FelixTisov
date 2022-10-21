@@ -30,6 +30,9 @@
 <a href="https://github.com/FelixTisov/shoes-shop">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FelixTisov&repo=shoes-shop&title_color=ffffff&text_color=c9cacc&icon_color=FFA34E&bg_color=2F4260" />
 </a>
+<a href="https://github.com/Shkesham/latinizator">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/username=Shkesham&repo=latinizator&title_color=ffffff&text_color=c9cacc&icon_color=FFA34E&bg_color=2F4260" />
+</a>
 
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left">
