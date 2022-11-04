@@ -14,11 +14,12 @@
 <p align="left">
   <li>JavaScript
   <li>React
-  <li>React Hooks
-  <li>React Router Dom
+  <li>Redux
+  <li>Vue3
   <li>Three.js
   <li>HTML
   <li>CSS
+  <li>SCSS/SASS
   <li>Git
   <li>Figma
 </p>
@@ -29,6 +30,9 @@
 </a>
 <a href="https://github.com/FelixTisov/shoes-shop">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FelixTisov&repo=shoes-shop&title_color=ffffff&text_color=c9cacc&icon_color=FFA34E&bg_color=2F4260" />
+</a>
+<a href="https://github.com/FelixTisov/vue-notes">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FelixTisov&repo=vue-notes&title_color=ffffff&text_color=c9cacc&icon_color=FFA34E&bg_color=2F4260" />
 </a>
 <a href="https://github.com/Shkesham/latinizator">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Shkesham&repo=latinizator&title_color=ffffff&text_color=c9cacc&icon_color=FFA34E&bg_color=2F4260" />
