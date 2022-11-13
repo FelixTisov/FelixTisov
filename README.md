@@ -13,6 +13,7 @@
 <h3 align="left">💻 Languages & Technologies:</h3>
 <p align="left">
   <li>JavaScript
+  <li>TypeScript
   <li>React
   <li>Redux
   <li>Vue3
