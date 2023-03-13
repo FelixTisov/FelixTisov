@@ -21,6 +21,8 @@
   <li>HTML
   <li>CSS
   <li>SCSS/SASS
+  <li>Webpack
+  <li>Python
   <li>Git
   <li>Figma
 </p>
