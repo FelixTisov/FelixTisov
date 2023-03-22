@@ -17,12 +17,13 @@
   <li>React
   <li>Redux
   <li>Vue3
-  <li>Three.js
   <li>HTML
   <li>CSS
   <li>SCSS/SASS
   <li>Webpack
   <li>Python
+  <li>Flask
+  <li>MySQL
   <li>Git
   <li>Figma
 </p>
