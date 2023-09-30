@@ -5,7 +5,7 @@
 
 <h3 align="left">👱🏼 About me:</h3>
 <p align="left">
-  <li>I'm a third year student at Information systems and technologies
+  <li>I'm a fourth year student at Information systems and technologies
   <li>I love Frontend Development
   <li>I want to change the world
 </p>
@@ -15,6 +15,7 @@
   <li>JavaScript
   <li>TypeScript
   <li>React
+  <li>React Native
   <li>Redux
   <li>Vue3
   <li>HTML
