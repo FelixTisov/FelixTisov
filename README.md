@@ -3,13 +3,6 @@
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 
-<h3 align="left">👱🏼 About me:</h3>
-<p align="left">
-  <li>I'm a fourth year student at Information systems and technologies
-  <li>I love Frontend Development
-  <li>I want to change the world
-</p>
-
 <h3 align="left">💻 Languages & Technologies:</h3>
 <p align="left">
   <li>JavaScript
@@ -18,10 +11,7 @@
   <li>React Native
   <li>Redux
   <li>Vue3
-  <li>HTML
-  <li>CSS
   <li>SCSS/SASS
-  <li>Webpack
   <li>Python
   <li>Flask
   <li>MySQL
